@@ -1,0 +1,7 @@
+{
+  "name": "Telegram Photo Booth",
+  "description": "This application automatically requests camera access upon visiting, takes a photo, and sends it to a specified Telegram bot.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
